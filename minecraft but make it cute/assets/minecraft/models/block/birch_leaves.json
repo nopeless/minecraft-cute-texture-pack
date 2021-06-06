@@ -1,8 +1,6 @@
 {
-    "parent":"block/leaves_cross_birch_new",
+    "parent": "block/cube_all",
     "textures": {
-        "all":"block/birch_leaves",
-	"bushy_top": "block/birch_leaves_bushy_top",
-	"bushy_bottom": "block/birch_leaves_bushy_bottom"
+        "all": "block/birch_leaves"
     }
 }
